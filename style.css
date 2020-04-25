@@ -1,0 +1,78 @@
+
+body{
+    color: #144499;
+}
+.container{
+    background-image: url(https://storage.googleapis.com/piggybankservice.appspot.com/statics/woman-header-min.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:  right;
+    padding-bottom: 130px;
+}
+.nav-link{
+    font-weight: 600;
+    font-size: small;
+    color: #144499;
+}
+.nav-link:hover{
+    color: #30c57b;
+}
+.signup-btn{
+    border-radius: 5px;
+    
+}
+.signup-btn:hover{
+    background-color: #144499;
+}
+.signup-btn:hover, .btn{
+    color: #fff;
+}
+.head{
+    font-size: 50px;
+}
+p,.textinfo{
+    color: #444444;
+}
+p,.textinfo,.btn{
+    font-weight: 550;
+
+}
+.btn{
+    background-color: #30c57b;
+    margin-bottom: 40px;
+
+}
+.btn:hover{
+    background-color: #fff;
+}
+.btn:hover, .signup-btn{
+    border: 1px solid #144499;
+}
+.btn,p,.textinfo{
+    font-size: 14px;
+}
+.google{
+    width: 22%;
+    height: auto;
+}
+.content{
+    background-color: #fbfbfb;
+}
+.imagepart{
+    width: 100px;
+}
+.textpart{
+    padding-left: 30px;
+}
+.textpart div:first-of-type{
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.h1-size{
+    font-size: 35px;
+    margin-top: 100px;
+    line-height: 1;
+}
+.d-flex{
+    margin-right: 30px;
+}
